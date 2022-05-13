@@ -53,3 +53,17 @@ border-radius: 0px; */
     margin: auto;
     margin-top: 5rem;
 }
+.mainDiv .top{
+    position: absolute;
+    top: 320px;
+    font-size: 2rem;
+    color: crimson;
+    left: 450px;
+}
+.mainDiv .bottom{
+    position: absolute;
+    bottom: 120px;
+    font-size: 2rem;
+    color: crimson;
+    left: 450px;
+}

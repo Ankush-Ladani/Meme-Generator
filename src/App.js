@@ -20,7 +20,9 @@ function App() {
       {/* <Main2></Main2> */}
       {/* <Count></Count> */}
       {/* <Count2></Count2> */}
-      <Pract></Pract>
+      {/* <Pract></Pract> */}
+      <Header></Header>
+      <Main></Main>
     </div>
   );
 }
